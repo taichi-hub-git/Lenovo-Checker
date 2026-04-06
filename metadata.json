@@ -1,0 +1,5 @@
+{
+  "name": "Lenovo Config Validator",
+  "description": "Automated verification of Lenovo server/workstation configurations against requirements using Gemini AI.",
+  "requestFramePermissions": []
+}
